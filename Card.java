@@ -9,14 +9,9 @@ public class Card {
 	public int getCardNumber() {
 		return cardNumber;
 	}
-	public void setCardNumber(int cardNumber) {
-		this.cardNumber = cardNumber;
-	}
+	
 	public int getSuit() {
 		return suit;
-	}
-	public void setSuit(int suit) {
-		this.suit = suit;
 	}
 	
 }
